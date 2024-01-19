@@ -1,0 +1,14 @@
+﻿column,
+experience_level,The experience level in the job during the year.
+,EN > Entry-level / Junior
+,MI> Mid-level / Intermediate
+,SE > Senior-level / Expert
+,EX > Executive-level / Director
+job_title,The role worked in during the year.
+salary,The total gross salary amount paid.
+salary_currency,The currency of the salary paid as an ISO 4217 currency code.
+salaryinusd,The salary in USD.
+employee_residence, Employee's primary country of residence during the work year as an ISO 3166 country code.
+remote_ratio,working setup
+company_location,The country of the employer's main office or contracting branch.
+company_size,The median number of people that worked for the company during the year.
